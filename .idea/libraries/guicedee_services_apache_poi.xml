@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="guicedee.services.apache.poi" type="repository">
+    <properties maven-id="com.guicedee.services:apache-poi:1.0.20.2-jre15" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/apache-poi/1.0.20.2-jre15/apache-poi-1.0.20.2-jre15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-logging/1.0.20.2-jre15/commons-logging-1.0.20.2-jre15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-codec/1.0.20.2-jre15/commons-codec-1.0.20.2-jre15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-math3/1.0.20.2-jre15/commons-math3-1.0.20.2-jre15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-collections4/1.0.20.2-jre15/commons-collections4-1.0.20.2-jre15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.xml.bind-api/1.0.20.2-jre15/jakarta.xml.bind-api-1.0.20.2-jre15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.activation/1.0.20.2-jre15/jakarta.activation-1.0.20.2-jre15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.activation/1.0.20.2-jre15/javax.activation-1.0.20.2-jre15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/staxex/stax-ex/2.0.0/stax-ex-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.validation-api/1.0.20.2-jre15/jakarta.validation-api-1.0.20.2-jre15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
